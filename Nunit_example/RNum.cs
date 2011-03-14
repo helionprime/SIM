@@ -20,11 +20,11 @@ namespace Nunit_example
 		{
 		}
 		
-		private UInt16 Chart2Num(Char RChar)
+		private UInt16 Chart2Num(Char InChar)
 		{
 			UInt16 RetVal = 0;
 			
-			switch (RChar) {
+			switch (InChar) {
 				case 'I': 
 					RetVal = 1;
 					break;
