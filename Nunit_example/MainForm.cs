@@ -29,10 +29,6 @@ namespace Nunit_example
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 		}
-		
-		public Int32 Add(Int32 a, Int32 b)
-		{
-			return (a+b);
-		}
+	
 	}
 }
