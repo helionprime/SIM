@@ -40,7 +40,14 @@ namespace Nunit_example
 		{
 		}
 
-		public Init(Char C, Int16 Value, Int16 Magnitudo)
+		public RChar(Char C, Int16 Value, Int16 Magnitudo)
+		{
+			_c = C;
+			_Value = Value;
+			_Magnitudo = Magnitudo;
+		}
+
+		public void Init(Char C, Int16 Value, Int16 Magnitudo)
 		{
 			_c = C;
 			_Value = Value;

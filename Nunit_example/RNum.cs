@@ -55,6 +55,9 @@ namespace Nunit_example
 		
 		public int Convert(String RomanNumberStr)
 		{
+			RChar rcL = new RChar('L',  50, 4);
+			RChar rcC = new RChar('C', 100, 5);
+			
 //			return Chart2Num(RomanNumberStr.Substring(1,1));
 			return Chart2Num(RomanNumberStr[0]);
 		}
