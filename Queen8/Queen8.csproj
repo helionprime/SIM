@@ -47,6 +47,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="cJudge.cs" />
+    <Compile Include="cPlayer.cs" />
+    <Compile Include="cQueen.cs" />
+    <Compile Include="cTable.cs" />
     <Compile Include="MainForm.cs" />
     <Compile Include="MainForm.Designer.cs">
       <DependentUpon>MainForm.cs</DependentUpon>

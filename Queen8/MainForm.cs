@@ -25,9 +25,7 @@ namespace Queen8
 			//
 			InitializeComponent();
 			
-			//
-			// TODO: Add constructor code after the InitializeComponent() call.
-			//
+			
 		}
 	}
 }

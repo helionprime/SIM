@@ -4,6 +4,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # SharpDevelop 4.0.0.7070
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nunit_example", "Nunit_example\Nunit_example.csproj", "{01F8226F-FF65-4CD9-8BB1-E4C0CE445F11}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queen8", "Queen8\Queen8.csproj", "{4309578D-8711-4231-9730-02C03094C3D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -14,5 +16,9 @@ Global
 		{01F8226F-FF65-4CD9-8BB1-E4C0CE445F11}.Debug|x86.ActiveCfg = Debug|x86
 		{01F8226F-FF65-4CD9-8BB1-E4C0CE445F11}.Release|x86.Build.0 = Release|x86
 		{01F8226F-FF65-4CD9-8BB1-E4C0CE445F11}.Release|x86.ActiveCfg = Release|x86
+		{4309578D-8711-4231-9730-02C03094C3D0}.Debug|x86.Build.0 = Debug|x86
+		{4309578D-8711-4231-9730-02C03094C3D0}.Debug|x86.ActiveCfg = Debug|x86
+		{4309578D-8711-4231-9730-02C03094C3D0}.Release|x86.Build.0 = Release|x86
+		{4309578D-8711-4231-9730-02C03094C3D0}.Release|x86.ActiveCfg = Release|x86
 	EndGlobalSection
 EndGlobal
