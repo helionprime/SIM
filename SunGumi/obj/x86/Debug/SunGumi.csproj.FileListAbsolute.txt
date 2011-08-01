@@ -1,0 +1,5 @@
+C:\Documents and Settings\sim\My Documents\SharpDevelop Projects\TestProjects\SunGumi\bin\Debug\SunGumi.exe
+C:\Documents and Settings\sim\My Documents\SharpDevelop Projects\TestProjects\SunGumi\bin\Debug\SunGumi.pdb
+C:\Documents and Settings\sim\My Documents\SharpDevelop Projects\TestProjects\SunGumi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sim\My Documents\SharpDevelop Projects\TestProjects\SunGumi\obj\x86\Debug\SunGumi.exe
+C:\Documents and Settings\sim\My Documents\SharpDevelop Projects\TestProjects\SunGumi\obj\x86\Debug\SunGumi.pdb
